@@ -1,4 +1,4 @@
-# 🔐 How to Create a Secure Login System in PHP & MySQL
+# 🔐 How to Create a Secure Login System in Pyqt5
 
 ![Preview](images/preview.png)
 
